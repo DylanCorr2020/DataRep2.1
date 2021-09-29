@@ -18,6 +18,8 @@ class BMI{
 }
 
 //crate new variable 
+//new instance of this class
+//create an object
 let myBmi = new BMI(2,90);
 
 
